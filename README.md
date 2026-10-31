@@ -1,7 +1,7 @@
 # DISAS — Disaster Intelligence & Situational Awareness System
 
 [![Prototype Status](https://img.shields.io/badge/Status-Project%20Initialization-blue.svg)](#)
-[![Pilot Geography](https://img.shields.io/badge/Geography-San Francisco2C%20-orange.svg)](#)
+[![Pilot Geography](https://img.shields.io/badge/Geography-Thane%2C%20Maharashtra-orange.svg)](#)
 [![Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20FastAPI%20%7C%20PostGIS%20%7C%20Three.js-emerald.svg)](#)
 
 **DISAS (Disaster Intelligence & Situational Awareness System)** is an integrated disaster intelligence and emergency response platform built for urban flood simulation, computer-vision threat detection, AI-assisted incident triage, capacity-aware evacuation, and multi-agency operational coordination.
